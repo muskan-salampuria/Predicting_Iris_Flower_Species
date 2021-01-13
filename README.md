@@ -16,7 +16,7 @@ Create the model that can classify the different species of the Iris flower.
 Iris is the family in the flower which contains the several species such as the iris.setosa,iris.versicolor,iris.virginica,etc.
 
 ## Solution by Different Algorithms
- - SVM
+ - Support Vector Machine (SVM)
  - Random Forest
  - Logistic Regression
  - KMeans Clustering
